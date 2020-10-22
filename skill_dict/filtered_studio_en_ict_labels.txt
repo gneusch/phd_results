@@ -1,0 +1,474 @@
+Hypertext Transfer Protocol
+Risk Tolerance
+Bridge
+Information asset valuation
+Component Engineering
+CRAMM attack model
+MAC Address
+Logical Link Control Sublayer
+Workflow Management
+Data Mart
+ID3 algorithm
+Address Resolution Protocol
+RingNet
+Populating the Database
+Geographical Information Systems
+Information security management framework
+Project
+Information Theory
+Semantic technology
+System Maintenance
+Service Operation
+Business Process Reengineering
+Host Layer
+Business Applications
+Systems' Maintenance Audit
+Decision Support
+Event Identification
+Defense in depth
+Measuring information security management performance
+Switch
+Service Portfolio Management
+System Development Standard
+Media Access Control Sublayer
+IT Audit
+3C Model
+Infrastructure
+Network
+Evolutionary Prototyping
+Gateway
+IS Organizational Structure
+Knowledge management system
+Disaster Recovery Audit
+BCP
+Data Warehouse Characteristics
+Communication Media
+HTTP Cookie
+Data Management
+Database Management
+Internet Layer
+Trivial File Transfer Protocol
+Transmission Control Protocol
+Data Representation
+Vulnerability
+User Requirements Specification
+Financial Management of IT Services
+Threat
+User Datagram Protocol
+Testing document type
+Risk Management
+Define problem areas
+System Design
+Project Manager
+Deliverable Check
+CPI
+IT Regulations
+Functional Requirement Formulation
+Datalink Layer
+Process
+Firewall Architecture
+Functional System
+Joint Application Development
+technology trend
+CRM System Function
+Cabling System
+Problem Analysis
+System Integration Strategies
+System Implementation Difficulties
+Risk Mitigation
+Online Business Model
+Testing Method
+Continious Process Improvement
+Information security program developement roadmap
+Quality Assurance Practices
+Real time transaction processing
+Strategic Performance Indicator
+Web 2.0 service
+Key Control
+Document Maintenance
+IS Audit Process
+Management Procedure
+Model
+Repeater
+CRM System
+Transport Layer Protocol
+Control Level
+Data mining
+Wireless Media
+V Model
+Compensating Control
+PAR
+Testing Procedure
+Project Initiation
+Network Operating System Weakness
+Information Security Standard
+Data Warehouse Design
+Customer Relationship Management
+object oriented programming
+Internet Control Message Protocol
+Project Charter
+Project Closing
+Incident management
+Transport Layer
+Service Management
+Network Reference Model
+Data Transportation
+Testing
+Network Configuration Weakness
+Problem solving
+Database Management System
+Host
+Time variant
+Business Impact Analyses
+Enterprise Governance
+Operating System
+Security Policy
+Supply Chain Management Solutions
+Debug
+Unsecured User Accounts
+Warehouse Management System
+Process Management
+TCP/IP Transport Layer
+Mobile Application
+Cryptographic Key-based Network Authentication
+OSI Reference Model
+Internet Layer Protocol
+Project Team
+Information security program management
+OLAP
+Business Intelligence
+Understand how the existing system operates
+Fiber Optic Network Cable
+Routing Table
+Data
+Drill down
+System Architecture
+Business case
+Project Management Standard
+Remote Desktop Protocol
+Supporting Integrated Business Processes
+Control Type
+System Implementation
+Web 2.0
+Structured Problem
+Information Security
+Project Review
+Network Technology Weakness
+TCP/IP Reference Model
+ITIL Process of Availability Management
+Slack time
+Authentication
+Software Testing
+Information security program resources
+Router Operating System
+electronic governance
+Network Operating System
+Business Process
+Project Resourcing
+IS Auditor
+Class abstraction
+Data Warehouse
+Control Risk
+Security Risk
+Corporate Governance
+Enterprise Architecture
+Programming
+Knowledge Management
+Quality Requirements Formulation
+Ethernet
+Mobile Payment
+Updating documentation policy
+Network Access Control
+Operational Planning
+IT Infrastructure Audit
+Document Management
+Transmission Media
+Document Storage
+Demand Planning
+Information Architecture
+Requirements Prioritization
+Regression Testing
+Subject-oriented
+Service Provider Model
+Firewall
+Local Proxy Server
+Simple Network Management Protocol
+Project Sponsor
+TCP/IP Application Layer
+Corrective Control
+Hybrid transaction processing
+Application Software Function
+Misconfigured Internet Service
+Document Specifics
+IT Service Management Audit
+Reporting
+Systems' Acquisition Audit
+Data Warehouse Risk
+Hub
+Internet Protocol
+TCP/IP Protocol Weakness
+File Transfer Protocol
+Sector-specific Requirement
+Implementation Practices
+Case based system
+Project Communication
+Network Hardware
+Multiplexing
+Subnetting
+Information Security Training Program
+Physical Access Control
+Network Interface Card
+Project Quality Management
+Transaction Processing
+IT Governance
+Router
+Progress Report
+Network security
+Technical Attack
+Network Access Layer
+Personal Area Network
+Activity Planning
+Metropolitan Area Network
+Project Repository
+Domain Naming System
+Project Priority
+B2B
+Electronic business
+Server
+Telnet
+IT Operations Audit
+Incident management metrics and indicators
+Hardware
+Cybercrime
+Service Metrics
+Object Oriented Development
+Mobile Technology
+Session Layer
+User Training
+Risk-based Audit
+Twisted Pair Network Cable
+Wide Area Network
+Local Area Newtwork
+Authorization
+Computer-assisted Audit Technique
+System Integration
+Customer Relationship Management Solutions
+External Review
+Post-implementation Audit
+Groupware
+Project Controlling
+Business Intelligence Process
+Management of Information System Change
+Spiral Model
+Quality Assurance Committee
+Application Layer Protocol
+Dynamic Host Configuration Protocol
+System Development Life Cycle
+Integration
+Project Structure
+Discovery Prototyping
+Quality Management Standard
+Implementing the information security program
+Electronic Commerce
+Ad hoc Reporting
+Project Management
+Quality Control
+Transaction
+Network Security Standard
+Project Planning
+Protection of IT Infrastructure
+Inheritance
+Information Security Governance
+Semi-structured Problem
+Logical Address
+Residual Risk
+Quality Assurance
+Software
+Software Engineering
+Internal Audit Standard
+Process Analysis
+Disaster Recovery Plan
+Communication
+Network Access Layer Protocol
+Microsoft Dynamics NAV
+Network Layer
+Genetic algorithm
+Network Topology
+ISO27001
+Confidentality
+Project Scheduling
+Quality Management
+TCP Session
+Architectural Requirements
+System Implementation Design
+Network Protocol
+Project Execution
+Web 2.0 technology
+IT Standard
+BPR
+Continual Service Improvement
+Change Management
+Information risk management
+Ontology
+Knowledge Representation
+Tacit knowledge
+Inherent Risk
+Process Modeling
+Distribution Planning
+Deming Cycle
+Groupwork Management
+Re-planning
+Proxy Server
+PERT
+Opex
+System Design Objectives
+Project Scope
+Agile Development
+Verification
+Executive Information Service
+Presentation Layer
+Data Integration
+Data Source
+Database
+Complex Project
+Business Analytics
+Data Modeling
+Network Security Legislation
+ITIL Process of IT Service Continuity Management
+Risk Analysis
+Semantic Web
+System Software
+Digital Product
+StarNet
+Administrative Support
+Batch processing
+Information Management
+Mobile Network
+Misconfigured Network Equipement
+Steering Committee
+Scale of Networks
+Information protection program
+Non-functional Testing
+Network Architecture
+Process Management Life Cycle
+Software Quality Assurance
+Baseline method
+Business Continuity Audit
+Data visualization
+Process Controlling
+Application Layer
+Systems' Development Audit
+Social Engineering
+Decision Support System
+Social Media
+System Development
+Simple Mail Transfer Protocol
+B2C
+Validation
+Threats to Network Security
+Project Management Software
+Business Application of Web 2.0
+System Installation
+Model Business Rules
+Information asset
+Service Strategy
+Availability
+Internet Group Management Protocol
+Digitization
+Logical Design
+WLAN
+Computer Architecture
+Wired Media
+BusNet
+Waterfall Model
+Service Design
+TreeNet
+COBIT
+Information security program developement
+Group Decision Support
+Information security program roles
+Database Design
+Network Security Policy Weakness
+Gantt
+Capex
+ERP
+Integrity
+Data Processing
+Cryptography
+Non-repudiation
+ITIL Process of IT Security Management
+Attack
+Testing Level
+Technical Control
+Urgent Data Signalling
+Service Measurement
+IP Address
+Media Layer
+Network Authentication
+Logical Access Control
+Demilitarized Zone Network
+Electronic Process Integration Model
+Functional Testing
+Electronic Commerce
+Java object oriented
+Physical Layer
+Milestone
+SAP LIS
+System Development Approach
+Information Asset Security Management
+Modem
+Information System
+Data Warehause
+Incident
+Updating documentation procedure
+Data Quality
+Failure Testing
+E-SCM
+System Analysis
+Access control
+Process Documentation
+Fuzzy system
+Variables and operators
+Analytical CRM
+Auditing Logical Access
+Hardware Based Solution
+Detective Control
+knowlede based system
+System Design Procedure
+Decision Theory
+Performance Management
+Project Organization
+Information security process
+Multithreading
+Decision Analysis
+Information security program management roles
+Mobile Commerce
+Gantt Diagram
+Electronic Process Integration
+Data structures
+Software Architecture
+Network Address Translation
+System Tuning
+ITIL Process of Capacity Management
+Vulnerabilities in Network Security
+Interfaces
+Organizational Form
+Artificial neural network
+Neural network
+Artificial Intelligence
+AI
+Machine Learning
+ML
+Unstructured Problem
+Operational Control
+Evaluation of test results
+Zachman Framework
+SSH
+Attack Motivations
+Operational safety
+Supply Chain
+XML
+Network Equipement Weakness
+Stakeholder Analysis
+Data Mining
+Internet
